@@ -3,4 +3,4 @@
 
 Genetic Algorithm
 
-Monte Claro - Simulated Annealing
+Monte Carlo - Simulated Annealing
